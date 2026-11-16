@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.1
+
+- Removed the planning table legend and general planning comment section.
+
 ## 0.3.0
 
 - Added comments to individual account and year cells in the baseline and scenarios.
