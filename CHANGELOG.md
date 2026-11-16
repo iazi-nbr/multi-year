@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.2
+
+- Show baseline and scenario values in separate side-by-side columns for each year.
+
 ## 0.4.1
 
 - Fix validation when editing values with thousand separators.
