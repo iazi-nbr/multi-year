@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.2
+
+- Aligned planning values and updated edited and calculated cell styling.
+- Replaced comment icons with red corner indicators and double-click comment entry.
+
 ## 0.3.1
 
 - Removed the planning table legend and general planning comment section.
