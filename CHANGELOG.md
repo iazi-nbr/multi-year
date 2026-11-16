@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.0
+
+- Added comments to individual account and year cells in the baseline and scenarios.
+- Added a comment slide-out with filtering, editing, deletion, authors and timestamps.
+- Included five example comments and browser-local storage.
+
 ## 0.2.0
 
 - Added shared, configurable account trees with hierarchies and calculations.
