@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.0
+
+- Add configurable KPIs for plans, planning periods, accounts and custom formulas using illustrative property surface data.
+
 ## 0.4.3
 
 - Remove the prototype badge, planning context line and comparison legend.
