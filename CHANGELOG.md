@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1
+
+- Fix validation when editing values with thousand separators.
+
 ## 0.4.0
 
 - Add a baseline and scenario comparison view with italic scenario values and directional arrows.
