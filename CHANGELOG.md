@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.3
+
+- Remove the prototype badge, planning context line and comparison legend.
+
 ## 0.4.2
 
 - Show baseline and scenario values in separate side-by-side columns for each year.
