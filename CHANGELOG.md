@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.5
+
+- Show Swiss-style thousand separators in editable planning and scenario table values.
+- Move baseline configurations to a right-hand slide-out.
+
 ## 0.3.4
 
 - Moved baseline configuration to the right-hand toolbar as an icon button.
