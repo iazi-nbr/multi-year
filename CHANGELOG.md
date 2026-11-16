@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.0
+
+- Add a baseline and scenario comparison view with italic scenario values and directional arrows.
+
 ## 0.3.5
 
 - Show Swiss-style thousand separators in editable planning and scenario table values.
