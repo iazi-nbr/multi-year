@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.3
+
+- Moved scenario controls next to Create scenario and converted them to icon buttons with tooltips.
+- Replaced the scenario assumptions expansion with a slide-out.
+
 ## 0.3.2
 
 - Aligned planning values and updated edited and calculated cell styling.
