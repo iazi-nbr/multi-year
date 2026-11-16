@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.4
+
+- Moved baseline configuration to the right-hand toolbar as an icon button.
+
 ## 0.3.3
 
 - Moved scenario controls next to Create scenario and converted them to icon buttons with tooltips.
