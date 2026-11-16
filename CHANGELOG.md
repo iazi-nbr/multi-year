@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.1
+
+- Show the complete planning table without a fixed-height cutoff.
+
 ## 0.5.0
 
 - Add configurable KPIs for plans, planning periods, accounts and custom formulas using illustrative property surface data.
