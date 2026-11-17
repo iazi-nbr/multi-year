@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.2
+
+- Refine the baseline mapping slide-out and source legend.
+- Remove manual source mappings while retaining existing manual values.
+
 ## 0.6.1
 
 - Simplify baseline configuration actions and add individual account reimports.
