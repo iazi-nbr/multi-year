@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.7.0
+
+- Add plan-specific acquisition simulations with editable annual account values.
+
 ## 0.6.5
 
 - Remove historical labels from year headers while retaining their visual distinction.
