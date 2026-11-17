@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.3
+
+- Integrate P&L account selection into each source mapping.
+
 ## 0.6.2
 
 - Refine the baseline mapping slide-out and source legend.
