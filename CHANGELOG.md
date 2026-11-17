@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.6.4
+
+- Show historical years in planning and comparison tables and distinguish them visually.
+- Configure the first planning year and the number of future and historical years.
+
 ## 0.6.3
 
 - Integrate P&L account selection into each source mapping.
