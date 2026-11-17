@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.0
+
+- Map multiple illustrative P&L accounts to one planning account and sum their yearly values.
+
 ## 0.5.2
 
 - Prevent the same account from being selected in multiple baseline source mappings.
