@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.1
+
+- Simplify baseline configuration actions and add individual account reimports.
+
 ## 0.6.0
 
 - Map multiple illustrative P&L accounts to one planning account and sum their yearly values.
