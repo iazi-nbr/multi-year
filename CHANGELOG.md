@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.8.0
+
+- Add reusable percentage parameters and account formulas with previous-year references.
+- Allow plan-specific formula overrides for individual cells.
+
 ## 0.7.0
 
 - Add plan-specific acquisition simulations with editable annual account values.
