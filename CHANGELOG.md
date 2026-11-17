@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.2
+
+- Prevent the same account from being selected in multiple baseline source mappings.
+
 ## 0.5.1
 
 - Show the complete planning table without a fixed-height cutoff.
