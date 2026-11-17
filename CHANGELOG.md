@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.1
+
+- Add a shared per-tree line chart for one to three accounts, displaying the selected plan's values.
+
 ## 0.8.0
 
 - Add reusable percentage parameters and account formulas with previous-year references.
