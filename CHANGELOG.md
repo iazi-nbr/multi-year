@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.3
+
+- Add editable CMS example growth assumptions and depreciation period with appropriate units.
+
 ## 0.8.2
 
 - Combine cell calculation and comments in a single double-click editor, prefilled with the account's default calculation.
