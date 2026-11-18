@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.2
+
+- Combine cell calculation and comments in a single double-click editor, prefilled with the account's default calculation.
+
 ## 0.8.1
 
 - Add a shared per-tree line chart for one to three accounts, displaying the selected plan's values.
