@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.8.4
+
+- Use Settings assumptions as defaults, with independent baseline and scenario values in the plan slide-outs.
+- Apply plan-specific assumption values in account formulas.
+
 ## 0.8.3
 
 - Add editable CMS example growth assumptions and depreciation period with appropriate units.
