@@ -1,5 +1,9 @@
 # Changelog
 
+## Baseline prototype 1.0.0
+
+- Introduce a separate baseline prototype with account library, multiple trees, property planning, mock mappings, parameters, comments and charts.
+
 ## 0.8.4
 
 - Use Settings assumptions as defaults, with independent baseline and scenario values in the plan slide-outs.
