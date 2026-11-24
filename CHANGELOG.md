@@ -1,5 +1,10 @@
 # Changelog
 
+## Baseline prototype 1.3.0
+
+- Default KPI cards to financial account values with a choice of year or total planning period.
+- Show year-on-year changes and planning period sparklines, while preserving customized KPI cards.
+
 ## Baseline prototype 1.2.0
 
 - Improve historical year contrast, account indentation and planning page visual design.
