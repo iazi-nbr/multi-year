@@ -1,5 +1,11 @@
 # Changelog
 
+## Baseline prototype 1.1.0
+
+- Refresh planning KPI cards, toolbar and account-tree visibility controls.
+- Display values in full CHF, and support calculations and comments from aggregate views.
+- Reorder Settings sections and add planning navigation and spreadsheet export.
+
 ## Baseline prototype 1.0.0
 
 - Introduce a separate baseline prototype with account library, multiple trees, property planning, mock mappings, parameters, comments and charts.
