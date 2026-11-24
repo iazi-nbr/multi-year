@@ -1,5 +1,10 @@
 # Changelog
 
+## Baseline prototype 1.2.0
+
+- Improve historical year contrast, account indentation and planning page visual design.
+- Move account tree configuration into the Settings page and support drag-and-drop hierarchy editing.
+
 ## Baseline prototype 1.1.0
 
 - Refresh planning KPI cards, toolbar and account-tree visibility controls.
