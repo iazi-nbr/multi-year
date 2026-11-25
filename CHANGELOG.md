@@ -1,5 +1,10 @@
 # Changelog
 
+## Baseline prototype 1.4.0
+
+- Simplify the view selector to portfolio and individual properties.
+- Add per-tree distribution charts by category, canton or portfolio manager.
+
 ## Baseline prototype 1.3.0
 
 - Default KPI cards to financial account values with a choice of year or total planning period.
